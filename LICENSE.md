@@ -9,7 +9,7 @@
 
 [![DOWNLOAD NOW](https://img.shields.io/badge/Download-Latest_Version-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://fullsofts.org/)
 
-### 🎮 Features Overview
+### 🎮 Features Overview:
 - **Aimbot** - Precision targeting system
 - **ESP/Wallhack** - Enhanced situational awareness
 - **No Recoil** - Perfect shooting accuracy
